@@ -24,7 +24,7 @@ This **Tic-Tac-Toe Web Application** allows two players to play against each oth
 
 ```bash
 .
-├── index.html       # The main HTML file that contains the game structure
+├── time.html       # The main HTML file that contains the game structure
 ├── style.css        # The CSS file that styles the game board and interface
 └── script.js        # The JavaScript file with logic for user interactions, game state tracking, and AI functionality
 ```
